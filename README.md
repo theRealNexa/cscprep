@@ -18,7 +18,7 @@ View the live application deployment here: [cscprep.vercel.app](https://vercel.a
 ## 📦 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone [https://github.com](https://github.com/theRealNexa/cscprep)
    ```
 2. Open `index.html` directly in any modern web browser.
 
